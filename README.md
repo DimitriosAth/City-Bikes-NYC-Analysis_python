@@ -10,8 +10,11 @@ about its usage patterns, derive insights and suggest strategies for improving t
 Key Questions:
 
 ● How to best allocate bikes based on traffic and time of day?
+
 ● Where are the most popular destinations?
+
 ● What is the average make-up of our subscribers?
+
 ● Is there seasonality in bike usage?
 
 Data
