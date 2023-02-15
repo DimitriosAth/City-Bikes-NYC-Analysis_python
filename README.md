@@ -1,13 +1,12 @@
-City Bikes NYC - Python coding
+# City Bikes NYC - Data Analysis project conducted in Python
 
-Data Analysis practice project conducted in Python.
+## This is a Python-based projectData Analysis practice project conducted in Python.
 
-Objective:
+## Objective
 
-City Bike is New York City’s bike share system, and the largest in the nation. My task is to perform an analysis of City Bike NYC data to uncover more information
-about its usage patterns, derive insights and suggest strategies for improving the service and increasing customer engagement.
+City Bike is New York City's bike share system, and the largest in the nation. My task is to perform an analysis of City Bike NYC data to uncover more information about its usage patterns, derive insights and suggest strategies for improving the service and increasing customer engagement.
 
-Key Questions:
+## Key Questions
 
 ● How to best allocate bikes based on traffic and time of day?
 
@@ -17,6 +16,11 @@ Key Questions:
 
 ● Is there seasonality in bike usage?
 
-Data
+## Data
 
-● Open-source data sets from City Bikes NYC
+Open-source data sets from City Bikes NYC in csv format.
+https://ride.citibikenyc.com/system-data
+
+## Project visualization
+
+https://public.tableau.com/app/profile/dimitrios.athanasoulias/viz/CFTask6_7/Task6_7
