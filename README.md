@@ -16,7 +16,7 @@ City Bike is New York City's bike share system, and the largest in the nation. M
 
 ## Data
 
-Open-source data sets from City Bikes NYC in csv format.
+Open-source data sets from City Bikes NYC in .csv format.
 https://ride.citibikenyc.com/system-data
 
 ## Project visualization
